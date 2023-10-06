@@ -1,0 +1,12 @@
+sdtesth750vb\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/list.c
+sdtesth750vb\list.o: D:\32keil_can_not_delete\ARM\ARMCC\Bin\..\include\stdlib.h
+sdtesth750vb\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+sdtesth750vb\list.o: D:\32keil_can_not_delete\ARM\ARMCC\Bin\..\include\stddef.h
+sdtesth750vb\list.o: D:\32keil_can_not_delete\ARM\ARMCC\Bin\..\include\stdint.h
+sdtesth750vb\list.o: ../Core/Inc/FreeRTOSConfig.h
+sdtesth750vb\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+sdtesth750vb\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+sdtesth750vb\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+sdtesth750vb\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+sdtesth750vb\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+sdtesth750vb\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
