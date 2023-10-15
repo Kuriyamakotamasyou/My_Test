@@ -1,0 +1,15 @@
+dcactest\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/queue.c
+dcactest\queue.o: D:\32keil_can_not_delete\ARM\ARMCC\Bin\..\include\stdlib.h
+dcactest\queue.o: D:\32keil_can_not_delete\ARM\ARMCC\Bin\..\include\string.h
+dcactest\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+dcactest\queue.o: D:\32keil_can_not_delete\ARM\ARMCC\Bin\..\include\stddef.h
+dcactest\queue.o: D:\32keil_can_not_delete\ARM\ARMCC\Bin\..\include\stdint.h
+dcactest\queue.o: ../Core/Inc/FreeRTOSConfig.h
+dcactest\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+dcactest\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+dcactest\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+dcactest\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+dcactest\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+dcactest\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+dcactest\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+dcactest\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h
