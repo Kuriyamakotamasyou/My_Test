@@ -1,0 +1,13 @@
+dcactest\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c
+dcactest\heap_4.o: D:\32keil_can_not_delete\ARM\ARMCC\Bin\..\include\stdlib.h
+dcactest\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+dcactest\heap_4.o: D:\32keil_can_not_delete\ARM\ARMCC\Bin\..\include\stddef.h
+dcactest\heap_4.o: D:\32keil_can_not_delete\ARM\ARMCC\Bin\..\include\stdint.h
+dcactest\heap_4.o: ../Core/Inc/FreeRTOSConfig.h
+dcactest\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+dcactest\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+dcactest\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+dcactest\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+dcactest\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+dcactest\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+dcactest\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

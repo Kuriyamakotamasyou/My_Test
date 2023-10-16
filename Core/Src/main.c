@@ -100,10 +100,6 @@ int main(void)
   MX_TIM6_Init();
   /* USER CODE BEGIN 2 */
 
-//	while(1){
-//		Delay_us(1);
-//		timer++;
-//	}
   /* USER CODE END 2 */
 
   /* Init scheduler */

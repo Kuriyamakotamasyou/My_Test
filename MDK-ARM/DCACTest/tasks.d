@@ -1,0 +1,16 @@
+dcactest\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/tasks.c
+dcactest\tasks.o: D:\32keil_can_not_delete\ARM\ARMCC\Bin\..\include\stdlib.h
+dcactest\tasks.o: D:\32keil_can_not_delete\ARM\ARMCC\Bin\..\include\string.h
+dcactest\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+dcactest\tasks.o: D:\32keil_can_not_delete\ARM\ARMCC\Bin\..\include\stddef.h
+dcactest\tasks.o: D:\32keil_can_not_delete\ARM\ARMCC\Bin\..\include\stdint.h
+dcactest\tasks.o: ../Core/Inc/FreeRTOSConfig.h
+dcactest\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+dcactest\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+dcactest\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+dcactest\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+dcactest\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+dcactest\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+dcactest\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+dcactest\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+dcactest\tasks.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/stack_macros.h

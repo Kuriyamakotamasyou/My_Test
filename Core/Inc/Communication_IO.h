@@ -14,6 +14,8 @@ typedef struct {
 	uint8_t OriginalData;
 	uint8_t FourBit_H;
 	uint8_t FourBit_L;
+	uint8_t H_Cnt;
+	uint8_t L_Cnt;
 }SendDataStruct_t;
 
 SendDataStruct_t* getSendDataStruct(void);

@@ -117,7 +117,7 @@ void StartDefaultTask(void *argument)
   /* Infinite loop */
   for(;;)
   {
-	  My_DCAC_Send(0xF5);
+	  My_DCAC_Send(0x92);
     osDelay(1000);
   }
   /* USER CODE END StartDefaultTask */
