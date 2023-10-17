@@ -1,6 +1,7 @@
 --cpu Cortex-M7.fp.dp
 "dcactest\startup_stm32h750xx.o"
 "dcactest\usdelay.o"
+"dcactest\communication_io.o"
 "dcactest\main.o"
 "dcactest\gpio.o"
 "dcactest\freertos.o"
@@ -8,7 +9,6 @@
 "dcactest\stm32h7xx_it.o"
 "dcactest\stm32h7xx_hal_msp.o"
 "dcactest\stm32h7xx_hal_timebase_tim.o"
-"dcactest\communication_io.o"
 "dcactest\stm32h7xx_ll_exti.o"
 "dcactest\stm32h7xx_ll_gpio.o"
 "dcactest\stm32h7xx_hal_cortex.o"

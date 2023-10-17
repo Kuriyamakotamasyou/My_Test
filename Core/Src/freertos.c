@@ -35,7 +35,7 @@
 
 /* Private define ------------------------------------------------------------*/
 /* USER CODE BEGIN PD */
-
+uint8_t String[10] = {0x34, 0x56, 0x03, 0x70, 0x66, 0x64, 0x56, 0x83, 0xAD, 0x04};
 /* USER CODE END PD */
 
 /* Private macro -------------------------------------------------------------*/
@@ -117,8 +117,8 @@ void StartDefaultTask(void *argument)
   /* Infinite loop */
   for(;;)
   {
-	  My_DCAC_Send(0x92);
-    osDelay(1000);
+	  DCACNetSendString(String, 10);
+    osDelay(10);
   }
   /* USER CODE END StartDefaultTask */
 }
